@@ -18,7 +18,7 @@
     "@azure/ms-rest-js": "^2.4.0",
     "dotenv": "^8.2.0",
     "junit-report-builder": "^3.0.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "@types/node": "^15.0.3",
