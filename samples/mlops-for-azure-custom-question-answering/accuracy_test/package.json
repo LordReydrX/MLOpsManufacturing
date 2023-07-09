@@ -15,7 +15,7 @@
   "dependencies": {
     "@azure/cognitiveservices-qnamaker": "^3.2.0",
     "@azure/cognitiveservices-qnamaker-runtime": "^1.0.1",
-    "@azure/ms-rest-js": "^2.4.0",
+    "@azure/ms-rest-js": "^2.7.0",
     "dotenv": "^8.2.0",
     "junit-report-builder": "^3.0.0",
     "node-fetch": "^2.6.1"
